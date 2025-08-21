@@ -64,3 +64,4 @@ The Power BI solution provides **real-time, accurate, and visually engaging dash
 ## 🖼 Dashboard Preview
 
 -<a href = "https://github.com/amitabhkarn/Daily-Volume-SLA-Dashboard/blob/main/Overview.png">Overview</a>
+- <a href = "https://github.com/amitabhkarn/Daily-Volume-SLA-Dashboard/blob/main/Daily_Dashboard_Periodic.pptx">Daily_Dashboard</a>
