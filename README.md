@@ -1,11 +1,11 @@
 # 📊 Daily-Volume-SLA-Dashboard (Power BI)
 
 ## 🔹 Overview
-This project showcases a **Daily Procurement Performance Dashboard** developed in **Power BI** for the **client**.  
-Previously, there was **no consolidated dashboard** available to track **daily and periodic volumes, SLA percentages, and agent-level performance** across procurement and support processes.  
+This project showcases a Daily Procurement Performance Dashboard developed in Power BI for the client.  
+This dashboard helps clients to track daily and periodic volumes, SLA percentages, and agent-level performance across procurement and support processes.  
 Reporting was done manually via Excel slides, which was time-consuming and error-prone.  
 
-The Power BI solution provides **real-time, accurate, and visually engaging dashboards**, improving operational visibility and reducing manual reporting effort.  
+The Power BI solution provides real-time, accurate, and visually engaging dashboards, improving operational visibility and reducing manual reporting effort.  
 
 ---
 
